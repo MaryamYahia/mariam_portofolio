@@ -393,26 +393,6 @@ a {
 
 .preview-lines i:nth-child(2) { width: 72%; }.preview-lines i:nth-child(3) { width: 48%; }
 
-.preview-circle { 
-  width: 105px; 
-  height: 105px; 
-  border-radius: 50%; 
-  background: rgba(139,92,246,.22); 
-  border: 12px solid rgba(255,255,255,.5); 
-  position: absolute; right: 28px; 
-  bottom: 20px; 
-}
-
-.preview-product { 
-  width: 90px; 
-  height: 125px; 
-  position: absolute; 
-  right: 45px;
-   bottom: -10px; 
-   border-radius: 12px 12px 0 0; 
-   background: rgba(112,65,216,.23); 
-   border: 6px solid rgba(255,255,255,.55); 
-  }
 
 .project-info { padding: 1.4rem; }
 
